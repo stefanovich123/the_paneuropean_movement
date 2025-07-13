@@ -7,7 +7,8 @@ new-page: true
 
 = Otto Braun
 
-Braun [? if spd_prussia = 1 : is ?][? if spd_prussia = 0 : was ?] The Man of the People. He wants to establish a Dictatorship of the German proletariat. HEIL BRAUN!
+Braun [? if spd_prussia = 1 : is ?][? if spd_prussia = 0 : was ?] The Man of the People. He wants to establish a Dictatorship of the German proletariat. HEIL BRAUN.
+
 - @coalition
 - @prussian_bulwark
 - @snap_election
